@@ -2,6 +2,10 @@ __pycache__/
 *.py[cod]
 *.pyo
 .env
+.env.save
+.DS_Store
+node_modules/
+/visualizer/
 data/
 *.db
 .venv/
